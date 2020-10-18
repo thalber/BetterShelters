@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.2608696
+Palette: 8
+EffectColorA: 13
+EffectColorB: 19
+PlacedObjects: LightFixture><483.1285><535.1532><RedLight~-569.6795~17~97, CosmeticSlimeMold2><943.7734><283.6986><-98~67, LightFixture><919.9457><331.4596><SlimeMoldLight~-33.67944~190~51, LightFixture><848.1541><237.8774><SlimeMoldLight~-22.67944~164~82, CosmeticSlimeMold><891.4003><232.1182><-59~92, 
+FadePalette: 9, 0.5434783

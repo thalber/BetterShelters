@@ -1,0 +1,4 @@
+Template: HI_SettingsTemplate_Inside
+DangerType: Flood
+AmbientSounds: OMNI><AM_IND-Utility02.ogg><737.8163><457.5613><0><1, OMNI><AM_IND-Warehouse01.ogg><734.8168><532.9199><0.173913><0.7456522, OMNI><AM_IND-Utility04.ogg><814.0666><181.5797><0.2173913><0.2369565, OMNI><SO_WAT-LilDrips.ogg><815.0499><262.4437><0.1304348><0.4326087, 
+FadePalette: 20, 0.2934783

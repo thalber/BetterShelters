@@ -1,0 +1,6 @@
+Template: CC_SettingsTemplate_Inside
+Grime: 0.1521739
+EffectColorA: 13
+PlacedObjects: LightSource><471.45><506.4987><0.4456522~EffectColor1~-22~-410~50~86.60254~1~0, 
+AmbientSounds: SPOT><SO_IND-Fridge.ogg><741.6847><367.0767><0.2391304><1><254.6847><288.0767><-67.35535><-13.35535><0><0.3717393, 
+FadePalette: 8, 0.4347826

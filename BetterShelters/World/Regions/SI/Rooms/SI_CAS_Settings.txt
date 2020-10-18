@@ -1,0 +1,4 @@
+Clouds: 0.05434782
+Effects: SkyDandelions-0.1195652-350-78, Flies-0-347-15, AboveCloudsView-1-590-37, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><851.5705><172.0883><0.3369565><0.8630434, OMNI><AM_ENV-NatWind.ogg><843.5842><264.1382><0.326087><1, OMNI><AM_WIN-StrongWnd2.ogg><846.7809><86.0524><0.3152174><1.9, 
+FadePalette: 18, 0.2934783

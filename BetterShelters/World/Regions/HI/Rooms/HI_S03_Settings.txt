@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.3478261
+PlacedObjects: BrokenShelterWaterLevel><467.9116><392.8823><, LightFixture><472.8066><369.3013><RedLight~17.32051~-10~43, 
+AmbientSounds: DIR><AM_ENV-NatWind.ogg><739.8444><493.1256><0.2173913><0.7652174><-16.95559><0, SPOT><AM_IND-50hz.ogg><712.1049><339.3877><0.2065217><0.4717391><479.1049><367.3877><-13.35535><-21.35535><0><0.2195653, OMNI><AM_IND-Warehouse01.ogg><822.0385><134.5537><0.3478261><0.4130435, 
+FadePalette: 20, 0.3586957

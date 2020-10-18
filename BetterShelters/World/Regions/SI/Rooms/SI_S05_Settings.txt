@@ -1,0 +1,8 @@
+Template: SI_SettingsTemplate_Inside
+Clouds: 0
+Palette: 3
+EffectColorA: 9
+Effects: SkyAndLightBloom-0.3913043-220-66, 
+PlacedObjects: LightSource><446.8323><290.1193><0.3586957~Environment~-132~-117~50~86.60254~0~1, LightSource><149.4294><254.6871><0.2826087~EffectColor1~8~-152~-188~102.6025~0~0, LightSource><352.6656><276.112><0.3695652~Environment~-32~-124~-123~206.6025~1~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><761.5684><42.93799><0.1413043><0.6086956, SPOT><AM_IND-50hz.ogg><249.5892><388.8811><0.1847826><0.5108696><104.5892><281.8811><11.64465><-23.35535><0><0.2956523, SPOT><SO_SFX-Morse.ogg><736.4467><420.2861><0.3804348><1.9><521.4467><431.2861><-26.35535><-66.35535><0><0.2086958, 
+FadePalette: 8, 0.3369565

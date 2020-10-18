@@ -1,0 +1,8 @@
+{
+ "regionID":  "", 
+ "description":  "Rain World room pack designed to improve quality of vanilla shelters and hopefully make them more immersive / exciting. Meant to be installed with Custom Regions Support by Garrakx.", 
+ "regionName":  "BetterShelter", 
+ "activated":  true, 
+ "loadOrder": 100, 
+ "checksum":  "" 
+}
