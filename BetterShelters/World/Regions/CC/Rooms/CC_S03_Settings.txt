@@ -1,5 +1,5 @@
 Template: CC_SettingsTemplate_Inside
 Grime: 0.173913
 PlacedObjects: LightFixture><651.2141><188.3033><HolyFire~126.3205~-206~4, VoidSpawnEgg><98.53613><424.9467><0~0~2~4~0, SeedCob><405.209><409.5816><11~86~30~50, 
-AmbientSounds: SPOT><SO_NAT-Burning.ogg><760.185><244.6891><0.2717391><1.586957><653.1849><188.6892><-9.355347><-10.35535><0.1413043><0.1652175, 
+AmbientSounds: SPOT><SO_NAT-Burning.ogg><760.185><244.6891><0.3043478><1.586957><653.1849><188.6892><-16.35535><-11.35535><0.1413043><0.2195653, 
 FadePalette: 8, 0.4565217

@@ -5,4 +5,5 @@ Palette: 8
 EffectColorA: 13
 EffectColorB: 19
 PlacedObjects: LightFixture><483.1285><535.1532><RedLight~-569.6795~17~97, CosmeticSlimeMold2><943.7734><283.6986><-98~67, LightFixture><919.9457><331.4596><SlimeMoldLight~-33.67944~190~51, LightFixture><848.1541><237.8774><SlimeMoldLight~-22.67944~164~82, CosmeticSlimeMold><891.4003><232.1182><-59~92, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><468.3621><58.89478><0.326087><0.726087><-88.63794><398.8948><371.6447><28.64465><0><0.252174, SPOT><AM_IND-ElectricHum02.ogg><464.8915><173.8914><0.1630435><0.373913><521.8915><576.8914><-0.3553467><-60.35535><0><0.1434784, OMNI><SO_WAT-ProperDrips.ogg><747.6125><217.9153><0.1413043><1.704348, 
 FadePalette: 9, 0.5434783
