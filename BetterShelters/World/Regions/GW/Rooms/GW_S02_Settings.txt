@@ -1,3 +1,4 @@
 Template: GW_SettingsTemplate_Inside
+PlacedObjects: ShelterSpawnPoint><508.8065><133.1993><, 
 AmbientSounds: SPOT><AM_IND-Utility02.ogg><760.8157><456.3276><0.2717391><1><74.81567><338.3276><-207.3553><-73.35535><0><0.328261, OMNI><SO_WAT-LilDrips.ogg><732.3259><280.8484><0.1086956><1.352174, 
 FadePalette: 8, 0.2934783

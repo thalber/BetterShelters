@@ -1,2 +1,2 @@
-PlacedObjects: BrokenShelterWaterLevel><598.3669><212.9122><, 
+PlacedObjects: BrokenShelterWaterLevel><597.3669><240.9122><, ShelterSpawnPoint><682.901><157.3811><, 
 AmbientSounds: SPOT><AM_ENV-LightWind.ogg><752.6487><519.8275><0.2717391><1><317.6487><666.8275><161.6447><-223.3553><0><0.154348, SPOT><AM_ENV-LightWind.ogg><549.8249><264.3146><0.2282609><1><-96.17511><273.3146><226.6447><109.6447><0><0.1, SPOT><AM_IND-Utility03.ogg><748.5507><348.0164><0.3478261><1><64.55066><387.0165><184.6447><-28.35535><0><0.1, OMNI><SO_WAT-LilDrips.ogg><866.4043><16.87274><0.2173913><0.726087, 

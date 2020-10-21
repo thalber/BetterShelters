@@ -5,6 +5,6 @@ Grime: 0.4891304
 BkgDroneVolume: 0
 Palette: 5
 Effects: SkyAndLightBloom-0.4130435-238-69, 
-PlacedObjects: LightFixture><558.0612><397.4341><HolyFire~227.3205~-352~83, 
+PlacedObjects: LightFixture><558.0612><397.4341><HolyFire~227.3205~-352~83, ShelterSpawnPoint><395.6332><319.6492><, 
 AmbientSounds: SPOT><Basic Mech.ogg><720.6788><158.4104><0.1956522><0.9413043><462.6788><681.4104><-5.355347><-97.35535><0><0.4478262, OMNI><SO_WAT-ProperDrips.ogg><722.8664><52.14885><0.25><1.567391, SPOT><SO_NAT-Fire.ogg><307.248><437.7><0.326087><1.645652><561.248><399.7><-20.35535><-28.35535><0><0.1760871, 
 FadePalette: 8, 0.2391304
