@@ -1,6 +1,6 @@
 Template: GW_SettingsTemplate_Inside
 DangerType: Flood
 Clouds: 0.4130435
-PlacedObjects: ShelterSpawnPoint><648.6231><148.3424><, 
+PlacedObjects: ShelterSpawnPoint><651.7783><129.6678><, 
 AmbientSounds: OMNI><AM_ENV-WinterTrees.ogg><831.1292><650.8473><0.173913><0.726087, OMNI><SO_WAT-LilDrips.ogg><653.4498><652.759><0.1413043><1.273913, SPOT><Mech Multiactive Highpass.wav><773.0897><368.6787><0.1413043><0.3347826><989.0896><279.6787><-163.3553><27.64465><0><0.4369566, 
 FadePalette: 8, 0.2608696, 0

@@ -3,6 +3,6 @@ DangerType: Flood
 Grime: 0.3043478
 Palette: 5
 EffectColorA: 3
-PlacedObjects: CosmeticSlimeMold><824.3621><105.1052><-70~-14, SlimeMold><842.6866><106.322><44~-53~25~50, SlimeMold><787.5877><134.0702><97~-7~25~50, CosmeticSlimeMold2><852.3511><101.5774><1~63, ShelterSpawnPoint><594.8165><49.17032><, 
+PlacedObjects: CosmeticSlimeMold><824.3621><105.1052><-70~-14, SlimeMold><842.6866><106.322><44~-53~25~50, SlimeMold><787.5877><134.0702><97~-7~25~50, CosmeticSlimeMold2><852.3511><101.5774><1~63, ShelterSpawnPoint><599.8165><35.17032><, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><831.9324><644.0821><0.2173913><0.7847826, SPOT><AM_IND-50hz.ogg><741.5838><339.0684><0.3478261><0.1978261><754.5837><-52.93166><-74.35535><90.64466><0><0.2195653, 
 FadePalette: 12, 0.5108696

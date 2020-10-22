@@ -1,5 +1,5 @@
 Clouds: 0.8369565
 Grime: 0.3478261
-PlacedObjects: ShelterSpawnPoint><132.1107><587.1436><, 
+PlacedObjects: ShelterSpawnPoint><142.1107><568.1436><, 
 AmbientSounds: OMNI><AM_ENV-Outside.ogg><596.0987><152.6192><0.2717391><1, 
 FadePalette: 8, 0.3043478
