@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.9021739
+Grime: 0.05434782
+BkgDroneVolume: 0
+Palette: 13
+Effects: ZeroG-0.5652174-153-66, 
+PlacedObjects: LightSource><236.1357><484.0049><0.4565217~Environment~156~-175~-395~-115.3975~0~0, SSLightRod><908.9495><612.2656><-1089.679~-419~0.1847825~180~137.826~0, SSLightRod><796.5511><481.4797><-967.6795~-419~0.173913~0~129.5651~0, LightSource><644.1994><645.0164><0.8043478~Environment~-7~-296~-796~-185.3975~0~0, WallMycelia><691.5573><265.9464><20~58, LightSource><808.3985><335.6724><0.75~White~-101~-79~-215~-363.3975~0~0, WallMycelia><309.0764><313.6506><-26~74, ShelterSpawnPoint><871.669><385.6071><, WallMycelia><268.64><490.1429><29~-79, WallMycelia><826.2214><252.0522><-49~17, DeepProcessing><768.1097><496.3924><-1~95~160~95~154~4~37~-450~0.3369565~1~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.4357><648.0743><0.2608696><1, OMNI><SO_WAT-LilDrips.ogg><830.2277><571.0513><0.2608696><1, 
+FadePalette: 8, 0.7282609
