@@ -1,7 +1,7 @@
 Clouds: 0.2391304
 Palette: 3
 EffectColorA: 18
-Effects: Fog-0.3369565-323-102, Bloom-1-576-152, 
-PlacedObjects: LightSource><481.3572><380.3312><0.2717391~White~4~-157~53~-172.3975~0~0, LightSource><163.1475><372.1351><0.2717391~White~1~-154~350~-236.3975~0~0, LightFixture><433.8863><104.8964><RedLight~17.32051~-10~37, LightFixture><185.6868><-16.6897><RedLight~17.32051~-10~18, LightFixture><185.8778><110.3462><RedLight~17.32051~-10~62, LightFixture><443.6873><-23.68994><RedLight~17.32051~-10~26, ShelterSpawnPoint><472.698><312.7783><, 
+Effects: Fog-0.08695652-323-102, Bloom-0.07608695-576-152, 
+PlacedObjects: LightSource><481.3572><380.3312><0.2717391~White~4~-157~53~-172.3975~0~0, LightSource><163.1475><372.1351><0.2717391~White~1~-154~350~-236.3975~0~0, LightFixture><433.8863><104.8964><RedLight~17.32051~-10~37, LightFixture><185.6868><-16.6897><RedLight~17.32051~-10~18, LightFixture><185.8778><110.3462><RedLight~17.32051~-10~62, LightFixture><443.6873><-23.68994><RedLight~17.32051~-10~26, ShelterSpawnPoint><472.698><312.7783><, ShelterDoorShift><311.963><199.6758><3~False><, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><842.424><23.3486><0.2173913><1.41087, OMNI><AM_ENV-NatWind.ogg><832.1912><108.5588><0.1847826><1.058696, SPOT><AM_IND-50hz.ogg><839.4452><198.2065><0.1195652><0.8826087><483.4451><388.2065><26.64465><-63.35535><0><0.078261, SPOT><AM_IND-DeepHum.ogg><839.1464><328.5789><0.2934783><1.586957><387.1464><83.57893><59.64465><82.64465><0><0.2413045, 
 FadePalette: 15, 0.2717391
