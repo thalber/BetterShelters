@@ -1,0 +1,6 @@
+Template: SL_SettingsTemplate_Sewer
+Clouds: 0.8152174
+Grime: 0.2826087
+PlacedObjects: ShelterSpawnPoint><558.2393><343.8003><, 
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><510.8687><222.661><0.1630435><1><717.8687><71.661><10.64465><141.6447><0><0.2413045, SPOT><AM_IND-Utility02.ogg><494.8535><586.0789><0.3043478><1><786.8535><600.0789><-31.35535><-74.35535><0><0.1760871, 
+FadePalette: 8, 0.3586957
