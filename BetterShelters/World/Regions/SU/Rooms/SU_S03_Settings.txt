@@ -1,4 +1,4 @@
 EffectColorA: 5
-PlacedObjects: DataPearl><837.337><343.8199><-954~-16~0~0~0~0, ShelterSpawnPoint><552.3><490.2488><, 
+PlacedObjects: DataPearl><837.337><343.8199><-296.9579~-340.0328~0~0~0~0, ShelterSpawnPoint><552.3><490.2488><, 
 AmbientSounds: SPOT><Mech Basic.wav><721.907><381.8229><0.5><1><117.907><350.8229><227.6447><-19.35535><0><0.252174, OMNI><SO_WAT-LilDrips.ogg><802.5549><46.45578><0.09782609><1.9, 
 FadePalette: 4, 0.2608696
