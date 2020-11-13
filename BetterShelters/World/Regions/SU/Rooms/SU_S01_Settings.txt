@@ -1,7 +1,7 @@
-Template: NONE
-Clouds: 0.7608696
-Grime: 0.2065217
-RandomItemDensity: 0.4130435
-PlacedObjects: ShelterSpawnPoint><311.6612><214.8683><, 
-AmbientSounds: SPOT><AM_ENV-Outside.ogg><809.1904><557.3114><0.2608696><0.9217392><723.1904><371.3114><-122.3553><-5.355347><0><0.1434784, OMNI><SO_WAT-MoreDrips.ogg><800.3><56.99838><0.1195652><1.586957, 
-FadePalette: 8, 0.5326087
+Template: SU_SettingsTemplate_Inside
+Clouds: 0.4565217
+Grime: 0.1304348
+EffectColorA: 2
+PlacedObjects: ShelterSpawnPoint><304.1351><217.6638><, 
+AmbientSounds: SPOT><Basic Mech.wav><523.95><262.5025><0.09782609><0.8434783><469.95><573.5024><67.64465><-132.3553><0><0.1869567, SPOT><AM_ENV-Outside.ogg><820.9968><226.95><0.3043478><0.726087><814.9968><374.95><-207.3553><-6.355347><0><0.3826088, OMNI><SO_WAT-LilDrips.ogg><801.8413><30.32208><0.1413043><1.48913, 
+FadePalette: 8, 0.5217391
