@@ -1,5 +1,6 @@
 Clouds: 0.8369565
 Grime: 0.3478261
-PlacedObjects: ShelterSpawnPoint><315.4473><415.5327><, Fakedoor><789.6885><450.8167><0~0~0, Fakedoor><159.4202><447.5666><2~0~0, ShelterDoorShift><470.3992><246.6169><3~0~0, 
+EffectColorA: 15
+PlacedObjects: ShelterSpawnPoint><297.4473><294.5327><, Fakedoor><159.4202><447.5666><2~0~0, ShelterDoorShift><470.3992><246.6169><3~0~0, ExitSymbolHidden><468.9045><240.877><, LightSource><472.4442><467.2025><0.2065217~EffectColor1~-161~56~50~86.60254~1~0, Mushroom><816.8384><654.118><-253~-611~40~50, Mushroom><792.9778><653.1988><43~-571~40~50, 
 AmbientSounds: OMNI><AM_ENV-Outside.ogg><596.0987><152.6192><0.2717391><1, 
 FadePalette: 8, 0.5326087
