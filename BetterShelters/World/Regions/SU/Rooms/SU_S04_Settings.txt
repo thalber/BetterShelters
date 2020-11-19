@@ -1,5 +1,5 @@
 Clouds: 0.8369565
 Grime: 0.3478261
-PlacedObjects: ShelterSpawnPoint><315.4473><415.5327><, Fakedoor><789.6885><450.8167><0~0~0, Fakedoor><159.4202><447.5666><2~0~0, 
+PlacedObjects: ShelterSpawnPoint><315.4473><415.5327><, Fakedoor><789.6885><450.8167><0~0~0, Fakedoor><159.4202><447.5666><2~0~0, ShelterDoorShift><470.3992><246.6169><3~0~0, 
 AmbientSounds: OMNI><AM_ENV-Outside.ogg><596.0987><152.6192><0.2717391><1, 
-FadePalette: 8, 0.3043478
+FadePalette: 8, 0.5326087
