@@ -1,4 +1,5 @@
-EffectColorB: 13
-PlacedObjects: ShelterSpawnPoint><92.11493><265.1475><, 
+Grime: 0
+EffectColorB: 21
+PlacedObjects: ShelterSpawnPoint><92.11493><265.1475><, ShelterSpawnPoint><377.3995><212.8671><, 
 AmbientSounds: SPOT><AM_ENV-Outside.ogg><743.8852><473.3526><0.4130435><0.726087><824.8853><382.3526><-544.3553><-28.35535><0><0.06739144, SPOT><AM_ENV-LightWind.ogg><675.3933><80.08081><0.2608696><0.8826087><802.3933><421.0808><-368.3553><-61.35535><0><0.1217393, OMNI><SO_WAT-LilDrips.ogg><846.3644><18.64706><0.2934783><0.823913, OMNI><SO_WAT-ProperDrips.ogg><845.2529><94.55002><0.1847826><0.5108696, 
 FadePalette: 8, 0.4130435
