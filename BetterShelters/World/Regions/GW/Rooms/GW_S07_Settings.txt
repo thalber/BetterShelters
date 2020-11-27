@@ -1,5 +1,6 @@
 DangerType: Flood
 Clouds: 0.2173913
-PlacedObjects: ShelterSpawnPoint><799.1675><231.8178><, 
+EffectColorA: 13
+PlacedObjects: ShelterSpawnPoint><651.5444><314.7107><, 
 AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><456.6083><495.3912><0.1847826><1, DIR><AM_ENV-LightWind.ogg><740.9459><521.4597><0.173913><0.6869565><89.37498><0, 
 FadePalette: 8, 0.2826087
