@@ -4,7 +4,7 @@ Clouds: 0.9021739
 Grime: 0.05434782
 BkgDroneVolume: 0
 Palette: 13
-Effects: ZeroG-0.5652174-153-66, 
-PlacedObjects: SSLightRod><908.9495><612.2656><-1089.679~-419~0.1847825~180~137.826~0, SSLightRod><796.5511><481.4797><-967.6795~-419~0.173913~0~129.5651~0, LightSource><644.1994><645.0164><0.8043478~Environment~-7~-296~-796~-185.3975~0~0, WallMycelia><691.5573><265.9464><20~58, LightSource><808.3985><335.6724><0.75~White~-101~-79~-215~-363.3975~0~0, WallMycelia><309.0764><313.6506><-26~74, ShelterSpawnPoint><871.669><385.6071><, WallMycelia><268.64><490.1429><29~-79, WallMycelia><826.2214><252.0522><-49~17, DeepProcessing><768.1097><496.3924><-1~95~160~95~154~4~37~-450~0.3369565~1~0, LightFixture><188.6674><398.4321><RedLight~17.32051~-10~58, LightFixture><519.6337><558.9127><RedLight~17.32051~-10~51, 
-AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.4357><648.0743><0.2608696><1, OMNI><SO_WAT-LilDrips.ogg><830.2277><571.0513><0.2608696><1, 
+Effects: ZeroG-0.2826087-153-66, 
+PlacedObjects: WallMycelia><691.5573><265.9464><20~58, WallMycelia><312.0764><334.6506><-26~74, ShelterSpawnPoint><871.669><385.6071><, WallMycelia><268.64><490.1429><29~-79, WallMycelia><826.2214><252.0522><-49~17, LightFixture><188.6674><398.4321><RedLight~-338.6795~102~58, LightFixture><519.6337><558.9127><RedLight~17.32051~-10~51, SuperStructureFuses><365.2473><137.7><41~127, SuperStructureFuses><854.9047><184.3768><79~141, ColorLightrod><933.238><523.4496><-408.6794~-178~0.1521739~315~195.6521~0~0.4673913~0~0, ColorLightrod><926.7513><509.7><-329.6794~-450~0.326087~315~263.0435~0~0.3043478~0~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.4357><648.0743><0.1630435><1, OMNI><SO_WAT-LilDrips.ogg><830.2277><571.0513><0.2608696><1, 
 FadePalette: 8, 0.7282609

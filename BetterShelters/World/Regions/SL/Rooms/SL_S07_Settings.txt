@@ -1,3 +1,8 @@
+Template: NONE
 DangerType: Flood
 Grime: 0.2282609
+Palette: 13
+EffectColorB: 6
+PlacedObjects: ShelterSpawnPoint><146.5585><235.6926><, 
+AmbientSounds: OMNI><AM_IND-Utility02.ogg><538.6837><491.3113><0.3586957><1, SPOT><Basic Mech.wav><693.6972><429.9667><0.173913><1><237.6972><479.9667><-240.3553><-145.3553><0><0.1, 
 FadePalette: 9, 0.6956522
