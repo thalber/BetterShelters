@@ -1,0 +1,4 @@
+BkgDroneVolume: 0
+EffectColorA: 13
+PlacedObjects: ShelterSpawnPoint><704.5051><333.2><, ShelterDoorShift><304.7103><570.1093><2~0~0, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><773.9447><562.7042><0.2934783><0.9021739, 
