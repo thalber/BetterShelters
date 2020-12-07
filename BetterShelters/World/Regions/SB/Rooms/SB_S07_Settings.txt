@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.7065217
+Clouds: 1
+Grime: 0.2282609
+Palette: 21
+Effects: LightBurn-0.5-34-118, 
+PlacedObjects: ShelterSpawnPoint><464.6205><185.0977><, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><509.8336><611.1817><0.2717391><1, OMNI><AM_SUB-BlankState.ogg><694.1382><611.1658><0.2934783><1, OMNI><AM_SUB-CaveTone.ogg><699.6198><532.5981><0.2826087><1, 
+FadePalette: 10, 0.173913
