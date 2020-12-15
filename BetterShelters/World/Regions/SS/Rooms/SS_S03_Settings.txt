@@ -1,0 +1,8 @@
+DangerType: None
+Grime: 0.2173913
+BkgDroneVolume: 0.2782609
+Palette: 25
+Effects: BrokenZeroG-1-20-20, ZeroGSpecks-0.4021739-22-75, CorruptionSpores-0.5543478-24-135, 
+PlacedObjects: LightFixture><705.8834><241.629><RedLight~17.32051~-10~66, LightFixture><198.379><370.5281><RedLight~-245.6795~128~33, SuperStructureFuses><376.6372><609.2655><142~76, ShelterSpawnPoint><491.9841><374.5507><, ShelterDoorShift><431.4899><254.3479><3~0~0, Corruption><769.2213><549.0128><2~118, CorruptionDarkness><749.7335><532.2776><0~111, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><831.0541><651.9599><0.4021739><0.9413043, OMNI><SO_SFX-Drowning.ogg><649.3415><649.4279><0.5><1, SPOT><SO_SFX-Heartbeat2.ogg><734.9397><462.3134><0.5><1><755.9398><534.3134><-72.35535><-66.35535><0><0.1, 
+FadePalette: 17, 0.3695652

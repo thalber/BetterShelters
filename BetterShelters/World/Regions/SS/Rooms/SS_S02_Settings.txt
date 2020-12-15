@@ -1,0 +1,6 @@
+DangerType: None
+Palette: 25
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.1956522-18-74, 
+PlacedObjects: SuperStructureFuses><452.5643><130.9258><180~53, LightFixture><325.7887><456.5538><RedLight~17.32051~-10~65, LightFixture><974.0671><145.8116><RedLight~17.32051~-10~9, LightSource><685.4498><414.5098><1~Environment~0~100~-400~111.6025~1~0, LightSource><220.0237><208.8014><1~Environment~0~100~-302~109.6025~1~0, DeepProcessing><680.2452><157.55><-9~204~140~205~146~-9~-53~-185~0.4347829~1~0.4782605, WallMycelia><569.6705><237.6045><0~100, WallMycelia><808.8126><645.5699><0~100, SSLightRod><807.1367><510.0852><-12.67944~-285~0.6521739~315~179.1299~0.3695652, ShelterSpawnPoint><725.3741><534.1569><, ShelterDoorShift><314.37><289.152><2~0~0, Fakedoor><314.849><635.4238><2~0~0, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><827.9499><651.2572><0.4565217><1, OMNI><AM_IND-SuperStructure.ogg><650.94><648.5625><0.3695652><0.9021739, SPOT><SO_SFX-Data1.ogg><710.7391><290.3003><0.3043478><1><536.7391><148.3003><-87.35535><-46.35535><0><0.1, 
+FadePalette: 10, 0.4673913

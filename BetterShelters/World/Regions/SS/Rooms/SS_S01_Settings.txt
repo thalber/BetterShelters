@@ -1,0 +1,8 @@
+DangerType: None
+CeilingDrips: 0.75
+Grime: 0.09782609
+Palette: 18
+Effects: ZeroGSpecks-0.2826087-20-20, ZeroG-0.1413043-17-97, 
+PlacedObjects: LightSource><306.1324><122.6498><1~Environment~0~100~-295~361.6025~1~0, LightFixture><387.5608><570.1851><RedLight~17.32051~-10~27, ShelterSpawnPoint><659.3262><306.849><, ShelterDoorShift><302.3494><230.1315><2~0~0, SuperStructureFuses><651.8001><192.4957><85~79, LightSource><794.0598><526.4409><1~Environment~0~100~50~86.60254~1~0, LightFixture><970.7><244.2534><RedLight~-1007.679~114~15, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><827.5577><633.4451><0.4021739><0.9217392, SPOT><SO_IND-Turbine.ogg><60.32385><491.1859><0.4347826><0.9021739><249.3239><235.1859><-186.3553><-79.35535><0><0.2086958, SPOT><SO_SFX-Data4.ogg><683.1965><255.2126><0.2717391><1><684.1965><243.2126><-45.35535><-44.35535><0><0.1, 
+FadePalette: 17, 0.8043478
