@@ -1,0 +1,6 @@
+Template: SB_SettingsTemplate_Filter
+DangerType: None
+Grime: 0.06521739
+Palette: 17
+PlacedObjects: LightFixture><305.8066><527.949><RedLight~-170.6795~69~92, LightFixture><773.0292><422.5521><RedLight~-275.6795~21~54, LightFixture><191.1463><28.1136><RedLight~17.32051~-10~18, ShelterSpawnPoint><306.25><469.95><, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><713.1852><445.6744><0.3586957><1, OMNI><AM_SUB-BlankState.ogg><731.6712><375.6466><0.4347826><1, SPOT><SO_IND-Turbine.ogg><696.6628><506.3839><0.5><1><182.6628><99.38391><-101.3553><-22.35535><0><0.1, 

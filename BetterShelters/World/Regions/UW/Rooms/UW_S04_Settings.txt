@@ -1,0 +1,4 @@
+Template: UW_SettingsTemplate_Wall
+Palette: 29
+PlacedObjects: ShelterSpawnPoint><336.7646><531.9495><, 
+FadePalette: 6, 0.4347826

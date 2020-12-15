@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 28
+EffectColorA: 8
+PlacedObjects: ShelterSpawnPoint><584.8656><90.64427><, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><720.884><579.913><0.2934783><1, SPOT><AM_IND-Welder.ogg><715.4297><370.0878><0.5><1><621.4297><326.0878><-55.35535><-52.35535><0><0.1, 
+FadePalette: 10, 0.1956522

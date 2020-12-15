@@ -1,0 +1,6 @@
+Template: UW_SettingsTemplate_Underhang
+EffectColorA: 18
+Effects: Lightning-0.5543478-6-94, 
+PlacedObjects: ShelterSpawnPoint><502.9116><155.419><, ShelterDoorShift><593.5948><567.3503><1~0~0, 
+AmbientSounds: SPOT><SO_SFX-Doomsday.ogg><699.5596><549.0591><0.5><1><605.5596><284.0591><-130.3553><-99.35535><0><0.1, 
+FadePalette: 10, 0.3478261
