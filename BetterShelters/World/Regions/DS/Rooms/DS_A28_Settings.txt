@@ -1,0 +1,3 @@
+EffectColorA: 2
+EffectColorB: 1
+PlacedObjects: ShelterSpawnPoint><611.0541><305.2095><, 

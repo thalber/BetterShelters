@@ -1,0 +1,7 @@
+DangerType: FloodAndRain
+Clouds: 1
+Grime: 0.2717391
+EffectColorA: 3
+EffectColorB: 13
+PlacedObjects: ShelterSpawnPoint><225.9359><190.1894><, 
+FadePalette: 8, 0.3804348

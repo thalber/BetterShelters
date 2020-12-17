@@ -1,0 +1,4 @@
+DangerType: FloodAndRain
+Grime: 0
+PlacedObjects: LightFixture><191.9162><441.1816><RedLight~17.32051~-10~99, LightFixture><765.9969><441.45><RedLight~17.32051~-10~92, ShelterSpawnPoint><284.3516><149.9222><, 
+FadePalette: 8, 0.8586956
