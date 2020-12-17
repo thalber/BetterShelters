@@ -1,0 +1,4 @@
+BkgDroneVolume: 0
+PlacedObjects: ShelterSpawnPoint><184.059><452.8089><, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><836.9306><643.1641><0.3804348><0.7652174, OMNI><SO_WAT-LilDrips.ogg><655.215><648.8031><0.1847826><1, 
+FadePalette: 12, 0.4673913

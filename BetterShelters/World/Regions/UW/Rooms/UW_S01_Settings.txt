@@ -1,0 +1,3 @@
+EffectColorA: 18
+PlacedObjects: ShelterSpawnPoint><370.0281><373.0124><, 
+FadePalette: 17, 0.4782609
