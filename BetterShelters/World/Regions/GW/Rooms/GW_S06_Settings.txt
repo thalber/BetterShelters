@@ -1,3 +1,4 @@
+DangerType: FloodAndRain
 EffectColorA: 13
 EffectColorB: 8
 PlacedObjects: ShelterSpawnPoint><856.2216><194.4397><, 

@@ -1,4 +1,4 @@
-DangerType: Flood
+DangerType: Rain
 Grime: 0.3152174
 EffectColorA: 5
 PlacedObjects: ShelterSpawnPoint><619.8977><207.0782><, CustomDecal><969.5621><261.4314><-36~319~81~338~66~-79~-450~-79~0.6304348~1~0~Rust2~0.4456522~1~0.4456522~1~0.4456522~1~0.4456522~1, 

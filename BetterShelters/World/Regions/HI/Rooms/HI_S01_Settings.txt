@@ -1,3 +1,4 @@
+DangerType: FloodAndRain
 Clouds: 0.2717391
 Grime: 0.3152174
 Effects: SkyAndLightBloom-0.1086956-289-44, 

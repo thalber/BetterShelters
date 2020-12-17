@@ -1,4 +1,5 @@
 Template: NONE
+Clouds: 0.01086957
 Palette: 2
 EffectColorA: 2
 EffectColorB: 13

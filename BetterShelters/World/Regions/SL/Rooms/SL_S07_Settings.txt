@@ -1,5 +1,6 @@
 Template: NONE
-DangerType: Flood
+DangerType: FloodAndRain
+Clouds: 0.01086957
 Grime: 0.2282609
 Palette: 13
 EffectColorB: 6

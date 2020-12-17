@@ -1,4 +1,5 @@
 Template: SL_SettingsTemplate_Sewer
+DangerType: FloodAndRain
 Clouds: 0.8152174
 Grime: 0.2826087
 PlacedObjects: ShelterSpawnPoint><558.2393><343.8003><, 

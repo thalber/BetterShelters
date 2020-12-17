@@ -1,3 +1,5 @@
+DangerType: Thunder
 EffectColorA: 18
+Effects: ElectricDeath-0.02173913-21-79, 
 PlacedObjects: ShelterSpawnPoint><370.0281><373.0124><, 
 FadePalette: 17, 0.4782609

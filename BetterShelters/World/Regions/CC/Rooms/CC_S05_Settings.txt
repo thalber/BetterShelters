@@ -1,3 +1,4 @@
+DangerType: FloodAndRain
 Palette: 6
 EffectColorA: 13
 EffectColorB: 6

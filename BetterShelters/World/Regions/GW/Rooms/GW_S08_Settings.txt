@@ -1,5 +1,5 @@
 Template: GW_SettingsTemplate_Inside
-DangerType: Flood
+DangerType: FloodAndRain
 Clouds: 0.4130435
 Grime: 0.2608696
 PlacedObjects: ShelterSpawnPoint><651.7783><129.6678><, 

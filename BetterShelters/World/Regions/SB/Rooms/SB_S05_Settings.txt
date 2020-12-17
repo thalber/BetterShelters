@@ -1,3 +1,5 @@
+DangerType: FloodAndRain
+Clouds: 0.01086957
 BkgDroneVolume: 0
 Effects: LightBurn-0.8152174-20-20, 
 PlacedObjects: ShelterSpawnPoint><690.7><71.75549><, 

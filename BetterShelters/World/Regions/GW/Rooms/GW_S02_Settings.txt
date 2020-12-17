@@ -1,4 +1,5 @@
 Template: GW_SettingsTemplate_Inside
+DangerType: FloodAndRain
 Grime: 0.2934783
 EffectColorB: 7
 PlacedObjects: ShelterSpawnPoint><688.8065><172.1993><, 

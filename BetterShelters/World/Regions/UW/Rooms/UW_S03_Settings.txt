@@ -1,5 +1,6 @@
 Template: NONE
-DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0.01086957
 Grime: 0
 Palette: 28
 EffectColorA: 8

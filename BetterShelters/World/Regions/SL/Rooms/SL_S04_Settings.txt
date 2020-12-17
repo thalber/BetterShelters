@@ -1,5 +1,5 @@
 Template: NONE
-DangerType: Flood
+DangerType: FloodAndRain
 Grime: 0.1195652
 Palette: 34
 PlacedObjects: ShelterSpawnPoint><688.2865><388.8033><, 

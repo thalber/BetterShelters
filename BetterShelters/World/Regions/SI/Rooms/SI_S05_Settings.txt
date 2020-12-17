@@ -1,5 +1,6 @@
 Template: SI_SettingsTemplate_Inside
-Clouds: 0
+DangerType: FloodAndRain
+Clouds: 0.01086957
 Palette: 3
 EffectColorA: 8
 Effects: SkyAndLightBloom-0.02173913-220-66, 

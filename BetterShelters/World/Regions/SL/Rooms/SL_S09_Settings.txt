@@ -1,4 +1,5 @@
 Template: SL_SettingsTemplate_Sewer
+DangerType: FloodAndRain
 Grime: 0.1956522
 PlacedObjects: ShelterSpawnPoint><243.8129><233.3208><, 
 AmbientSounds: SPOT><waterGurgleLOOP1.wav><69.84149><493.3781><0.3804348><1><413.8415><690.3781><-111.3553><-60.35535><0><0.2413045, SPOT><AM_IND-Utility02.ogg><126.1902><342.5618><0.5><1><157.1902><228.5618><-92.35535><-78.35535><0><0.1869565, SPOT><SO_WAT-Pour.ogg><713.5764><232.6507><0.5><1><410.5764><192.6507><-64.35535><-52.35535><0><0.1, 

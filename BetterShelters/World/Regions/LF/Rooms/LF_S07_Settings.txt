@@ -1,3 +1,4 @@
+DangerType: FloodAndRain
 Clouds: 0.2934783
 Grime: 0.1956522
 EffectColorA: 5

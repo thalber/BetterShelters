@@ -1,4 +1,4 @@
-DangerType: Flood
+DangerType: FloodAndRain
 BkgDroneVolume: 0
 EffectColorB: 19
 PlacedObjects: LightFixture><378.1212><608.653><RedLight~17.32051~-10~47, ShelterSpawnPoint><190.5518><88.22299><, 

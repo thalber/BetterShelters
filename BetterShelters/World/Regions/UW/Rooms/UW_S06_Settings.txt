@@ -1,3 +1,4 @@
+DangerType: Thunder
 EffectColorA: 2
-Effects: ElectricDeath-0.09782609-46-85, 
+Effects: ElectricDeath-0.02173913-46-85, 
 FadePalette: 17, 0.3804348

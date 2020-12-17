@@ -1,3 +1,5 @@
 Template: UW_SettingsTemplate_Underhang
+DangerType: Thunder
+Effects: ElectricDeath-0.02173913-16-71, 
 PlacedObjects: LightSource><671.5834><306.4318><0.4565217~Environment~0~100~50~86.60254~1~0, 
 FadePalette: 8, 0.1630435

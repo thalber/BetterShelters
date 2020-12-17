@@ -1,5 +1,5 @@
 Template: SB_SettingsTemplate_Filter
-DangerType: Flood
+DangerType: FloodAndRain
 Palette: 20
 PlacedObjects: LightFixture><453.3><87.2442><RedLight~17.32051~-10~79, LightFixture><318.5382><565.3037><RedLight~17.32051~-10~71, ShelterSpawnPoint><239.152><526.6299><, 
 AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.3393><631.821><0.3478261><1, 

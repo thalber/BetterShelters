@@ -1,2 +1,4 @@
+DangerType: Thunder
+Effects: ElectricDeath-0.02173913-20-80, 
 PlacedObjects: LightFixture><741.3875><311.8945><RedLight~17.32051~-10~20, ShelterSpawnPoint><494.7153><281.5674><, 
 FadePalette: 17, 0.5108696

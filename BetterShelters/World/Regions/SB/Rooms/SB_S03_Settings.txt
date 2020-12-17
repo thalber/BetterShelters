@@ -1,4 +1,4 @@
-DangerType: Flood
+DangerType: FloodAndRain
 Palette: 17
 EffectColorA: 19
 PlacedObjects: ShelterSpawnPoint><534.9446><71.70399><, LightFixture><526.6569><-43.3739><RedLight~17.32051~-10~8, 

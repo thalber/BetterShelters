@@ -1,3 +1,4 @@
+DangerType: FloodAndRain
 Effects: FireFlies-0.1956522-20-20, 
 PlacedObjects: ShelterSpawnPoint><746.7266><347.9486><, 
 AmbientSounds: OMNI><AM_ENV-CityTone.ogg><832.3001><644.744><0.3804348><0.7847826, OMNI><AM_WIN-SubWnd.ogg><651.1884><647.5673><0.423913><1, 

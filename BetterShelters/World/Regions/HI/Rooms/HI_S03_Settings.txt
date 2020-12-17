@@ -1,5 +1,5 @@
 Template: NONE
-DangerType: Flood
+DangerType: FloodAndRain
 Grime: 0.3478261
 Palette: 5
 PlacedObjects: BrokenShelterWaterLevel><419.9116><257.8823><, LightFixture><304.8066><113.3013><RedLight~-15.6795~232~43, ShelterSpawnPoint><369.6716><319.3973><, LightFixture><555.3889><478.856><RedLight~-412.6795~21~43, ShelterDoorShift><204.8445><471.5345><2~0~0, 
