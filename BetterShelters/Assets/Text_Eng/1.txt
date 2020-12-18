@@ -1,0 +1,25 @@
+0-01
+
+This one is rather bizzare. It is written in a very old discrete format, one of those which proved impractical long before a first iterator was built,<LINE>but the contents are not that ancient, as far as I can decode. Wait, you don't even know what "discrete" means, do you?
+
+Well, let me give you an example. Imagine eating a large, juicy fruit. Or just remember the last time you did that.<LINE>When you think of an action like this one, you don't think separately about how your teeth move, the angle at which they cut the fruit's skin, how many of your taste receptors are activated at any time - you just process this experience as a whole.<LINE>This is called "continuous perception".
+
+"Discrete perception" is the opposite side and, for all I know, it is not a thing that exists.
+
+When fathers of fathers of fathers of those who built me were just getting their grasps on how to engineer life and set metal to motion, some... weirds ideas sprouted.<LINE>This was one of those suggestions - to build a machine that would process data, but never think or feel, to break thought into countless dead pieces<LINE>and build something out of them. There were entire books about dead minds, free of mortal struggles and limitations,<LINE>studies about pure knowledge without the knowing.
+
+Time didn't treat ideas like this one well. They were deemed laughable and pointless, never recieved public support<LINE>and eventually faded into obscurity, only leaving traces in historical records.<LINE>I don't know if it was a fair precaution or a missed opportunity...
+
+I'm getting side-tracked though.
+
+This contains an access key to a secure data repository, meant for shared use between several individuals.<LINE>Judging by the accompanying metadata, the repository was a part of some research project on long-term preservation of autonomous purposed organisms.
+
+Version credentials are partially corrupted due to some translation error, can only make out this...
+
+"main : last change committed 12 cycles ago; action comment: 'updated cellular decay patterns for model 12/[???].9' 
+
+[???] : last change committed [2/90?] cycles ago; action comment: 'should reevaluate the way we are going with this'
+
+Yugoslavia : branch deleted; action comment: 'who the [???] thought this was funny? because it sure was not'"
+
+This is... as weird as the format, if not weirder. I don't even know what to say, little beast.

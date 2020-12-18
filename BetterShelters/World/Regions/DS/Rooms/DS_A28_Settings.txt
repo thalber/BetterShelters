@@ -1,3 +1,3 @@
 EffectColorA: 2
 EffectColorB: 1
-PlacedObjects: ShelterSpawnPoint><611.0541><305.2095><, 
+PlacedObjects: ShelterSpawnPoint><611.0541><305.2095><, UniqueDataPearl><316.3057><304.7971><0~0~0~0~22~0, 
