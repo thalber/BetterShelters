@@ -1,9 +1,10 @@
 # BetterShelters
 RW room pack. Replaces all vanila shelters with new shiny ones. Enjoy.
+Has a few surprises for those willing to look out.
 
 ## HOW TO INSTALL
 
-1) Unpack teh archive
+1) Unpack the archive.
 2) Place BetterShelters folder from the archive into [ path-to-your-game ]/Mods/CustomResources
 3) Place all **.dll** files from Mods from the archive into [ path-to-your-game ]/Mods/ if you are using Partiality Launcher or [ path-to-your-game ]/BepInEx/plugins if you are using BepInEx; enable all if needed. Using AutoUpdate is not mandatory but strongly advised.
 4) Run the game. To see if everything is installed correctly, open mod config menu (from vanilla options screen, button on the bottom left), navigate to CustomRegions config and see if BetterShelters region pack is outlined in green. If it's not, you messed something up.
