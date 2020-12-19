@@ -19,5 +19,5 @@ PLEASE NOTE: INSTALLING OR UNINSTALLING BETTERSHELTERS WILL CORRUPT YOUR SAVEFIL
 * **Tronsx** - most of the level editing. Solo carried the project out of the deep pit it was in around October 2020.
 * **Thalber** - initial (bad) rooms, BSH code.
 * **Garrakx** - CRS.
-* **Bee** - AutoUpdate.
+* **Bee** - AutoUpdate and EnumExtender.
 * **DeltaTime** - ColorLightRods.
