@@ -1,5 +1,5 @@
 # BetterShelters
-RW room pack. Goal: make shelters not boring, and not boxes. Replaces all vanila shelters with new shiny ones. Enjoy.
+RW room pack. Replaces all vanila shelters with new shiny ones. Enjoy.
 
 ## HOW TO INSTALL
 
