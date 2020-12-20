@@ -1,5 +1,5 @@
 DangerType: FloodAndRain
 Grime: 0.3043478
-PlacedObjects: ShelterSpawnPoint><222.1959><139.0402><, 
+PlacedObjects: ShelterSpawnPoint><220.1959><129.0402><, 
 AmbientSounds: OMNI><AM_IND-Utility02.ogg><838.6574><126.5727><0.3586957><1, OMNI><SO_WAT-ProperDrips.ogg><840.31><42.06245><0.2391304><1.313043, 
 FadePalette: 4, 0.2282609

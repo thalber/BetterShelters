@@ -2,6 +2,6 @@ Template: CC_SettingsTemplate_Inside
 DangerType: FloodAndRain
 Grime: 0.1521739
 EffectColorA: 13
-PlacedObjects: LightSource><471.45><506.4987><0.4456522~EffectColor1~-22~-410~50~86.60254~1~0, VultureGrub><815.9706><231.5522><78~-191~20~50, DeadVultureGrub><736.1682><268.6083><148.0001~-300~20~37, ShelterSpawnPoint><791.3848><234.1022><, 
+PlacedObjects: LightSource><471.45><506.4987><0.4456522~EffectColor1~-22~-410~50~86.60254~1~0, VultureGrub><815.9706><231.5522><78~-191~7~50, DeadVultureGrub><736.1682><268.6083><148.0001~-300~10~37, ShelterSpawnPoint><791.3848><234.1022><, 
 AmbientSounds: SPOT><SO_IND-Fridge.ogg><741.6847><367.0767><0.2391304><1><254.6847><288.0767><-67.35535><-13.35535><0><0.3717393, 
 FadePalette: 8, 0.4347826

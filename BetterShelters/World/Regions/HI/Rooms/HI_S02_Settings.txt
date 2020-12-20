@@ -1,7 +1,8 @@
 Template: NONE
 DangerType: FloodAndRain
+RumbleIntensity: 1
 Clouds: 0
-Grime: 0.4891304
+Grime: 0.1956522
 BkgDroneVolume: 0
 Palette: 5
 Effects: SkyAndLightBloom-0.4130435-238-69, 

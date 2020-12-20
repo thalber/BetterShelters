@@ -1,6 +1,6 @@
 Template: SU_SettingsTemplate_Inside
 DangerType: FloodAndRain
 Grime: 0.09782609
-PlacedObjects: ShelterDoorShift><374.3727><352.8457><2~0~0, Fakedoor><372.6912><173.3083><2~0~0, ShelterSpawnPoint><559.3162><488.671><, DataPearl><831.3074><304.0543><-64~-310~0~0~0~0, PuffBall><877.1309><307.0893><-561~-320~0~3, FlareBomb><795.6091><346.8582><-366~-158~0~3, ExitSymbolHidden><366.45><348.7523><, ExitSymbolHidden><369.0704><168.1621><, 
+PlacedObjects: ShelterDoorShift><374.3727><352.8457><2~0~0, Fakedoor><372.6912><173.3083><2~0~0, ShelterSpawnPoint><749.3162><425.671><, DataPearl><831.3074><304.0543><-64~-310~0~0~0~0, PuffBall><877.1309><307.0893><-561~-320~0~3, FlareBomb><795.6091><346.8582><-366~-158~0~3, ExitSymbolHidden><369.0704><168.1621><, 
 AmbientSounds: OMNI><Basic Mech.ogg><757.4195><162.8938><0.1521739><0.8630434, SPOT><Mech Basic.wav><764.8282><551.3976><0.4347826><0.7456522><295.8282><234.3976><-39.35535><-29.35535><0><0.4586958, 
 FadePalette: 4, 0.7717391
