@@ -3,4 +3,4 @@ END ROOMS
 CREATURES
 LF_S03 : 1-Small Centipede-1,
 LINEAGE : LF_S03 : 2 : Small Centipede-1, RedCentipede-0
-END CREARTURES
+END CREATURES
