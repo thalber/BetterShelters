@@ -1,5 +1,5 @@
 Clouds: 0.5543478
 Grime: 0.2717391
 EffectColorB: 8
-PlacedObjects: DeadVultureGrub><538.604><272.1367><-108~-211~34~38, UniqueDataPearl><541.1294><347.4096><0~0~0~0~21~0, 
+PlacedObjects: DeadVultureGrub><538.604><272.1367><-108~-211~34~38, UniqueDataPearl><555.9496><345.5129><0~0~0~0~21~0, 
 FadePalette: 4, 0.5
