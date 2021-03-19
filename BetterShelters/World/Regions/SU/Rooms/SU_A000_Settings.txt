@@ -1,5 +1,6 @@
 Clouds: 0.5543478
 Grime: 0.2717391
 EffectColorB: 8
+Effects: DefinitelyNotWasps-1-340-193, 
 PlacedObjects: DeadVultureGrub><538.604><272.1367><-108~-211~34~38, UniqueDataPearl><541.1819><346.938><-108~80~0~0~352956339~0, 
 FadePalette: 4, 0.5

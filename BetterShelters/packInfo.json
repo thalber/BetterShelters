@@ -1,12 +1,12 @@
 {
-   "regionPackName": "BetterShelters", 
-   "description": "Rain World room pack designed to improve quality of vanilla shelters and hopefully make them more immersive / exciting. Meant to be installed with Custom Regions Support by Garrakx.", 
-   "author": "", 
-   "activated": true, 
-   "loadOrder": 200, 
-   "regions": "", 
-   "thumbURL": "", 
-   "version": "1.0", 
-   "requirements": "", 
-   "checksum": "482119eb754656f0541586dd4a95b68e" 
+  "regionPackName": "Better Shelters",
+  "description": "Replaces all of the shelter rooms in the original game to make the shelters more unique and interesting in their designs.",
+  "author": "TRONSX&THALBER",
+  "activated": true,
+  "loadOrder": 201,
+  "regions": "",
+  "thumbURL": "http://www.raindb.net/previews/bettershelters.png",
+  "version": "1.2",
+  "requirements": "",
+  "checksum": "393bbe9222a760c196e9e37f40676738"
 }
