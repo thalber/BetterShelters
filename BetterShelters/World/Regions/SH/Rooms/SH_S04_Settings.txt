@@ -1,4 +1,4 @@
 DangerType: FloodAndRain
 BkgDroneVolume: 0
-PlacedObjects: ShelterDoorShift><193.6407><530.6421><2~0~0, ShelterSpawnPoint><690.3185><276.0842><, 
+PlacedObjects: ShelterDoorShift><193.6407><530.6421><2~0~0, ShelterSpawnPoint><690.3185><276.0842><, LanternOnStick><438.8015><531.7748><-117~85, 
 AmbientSounds: SPOT><AM_IND-Utility02.ogg><740.9316><460.0838><0.3478261><1><618.9316><534.0839><-108.3553><-58.35535><0><0.3173914, SPOT><AM_WIN-SubWnd.ogg><578.7614><211.4497><0.3043478><0.8826087><-111.2386><536.4497><145.6447><-6.355347><0><0.4804349, 
