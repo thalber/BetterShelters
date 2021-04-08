@@ -1,0 +1,1 @@
+PlacedObjects: ShelterDoorShift><196.3027><186.4674><2~0~0, ShelterSpawnPoint><596.8573><326.6099><, 
