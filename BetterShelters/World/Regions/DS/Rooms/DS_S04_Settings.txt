@@ -1,5 +1,5 @@
 DangerType: FloodAndRain
 Clouds: 0.02173913
 Grime: 0.1521739
-PlacedObjects: ShelterSpawnPoint><699.5853><188.8636><, Fakedoor><198.1973><552.4663><2~0~0, ExitSymbolHidden><782.6572><555.1263><, 
+PlacedObjects: ExitSymbolHidden><786.6572><552.1263><, ShelterBhvrManager><-62.53467><282.053><-114~53~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><169.1027><550.3647><1^0, ShelterBhvrSpawnPosition><737.6997><188.2607><, ShelterBhvrSpawnPosition><669.608><192.0817><, ShelterBhvrSpawnPosition><562.7937><204.6952><, ShelterBhvrSpawnPosition><360.3019><208.2223><, ShelterBhvrSpawnPosition><617.948><529.2781><, 
 AmbientSounds: SPOT><SO_IND-MechHum02.ogg><729.6705><563.6045><0.5><1><615.6705><394.6045><-37.35529><-35.35535><0><0.2195653, 

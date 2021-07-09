@@ -1,4 +1,4 @@
 DangerType: FloodAndRain
 Effects: FireFlies-0.1956522-20-20, 
-PlacedObjects: ShelterSpawnPoint><746.7266><347.9486><, 
+PlacedObjects: LanternOnStick><579.1945><448.2967><-53~-100, ShelterBhvrManager><-36.586><173.8855><-109~113~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><760.3712><347.597><, ShelterBhvrSpawnPosition><623.7968><347.9445><, ShelterBhvrSpawnPosition><702.1378><203.9155><, CosmeticSlimeMold2><463.0677><234.0618><0~100, LightFixture><487.0847><240.4312><SlimeMoldLight~-357.6795~-191~37, LightFixture><464.8003><224.2385><SlimeMoldLight~-366.6795~-239~65, 
 AmbientSounds: OMNI><AM_ENV-CityTone.ogg><832.3001><644.744><0.3804348><0.7847826, OMNI><AM_WIN-SubWnd.ogg><651.1884><647.5673><0.423913><1, 

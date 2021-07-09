@@ -4,5 +4,6 @@ BkgDroneVolume: 0
 Palette: 10
 EffectColorA: 3
 EffectColorB: 13
+PlacedObjects: ShelterBhvrManager><-127.1925><139.1959><-40~60~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><379.3204><306.3128><, ShelterBhvrSpawnPosition><151.1816><389.4164><, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><836.7><641.751><0.3152174><0.7847826, OMNI><waterGurgleLOOP1.wav><663.6203><637.0902><0.2826087><0.9413043, SPOT><AM_IND-DeepHum.ogg><773.0338><313.5529><0.2608696><1><885.0337><385.5529><-13.35535><-126.3553><0><0.2195653, 
 FadePalette: 13, 0.3478261

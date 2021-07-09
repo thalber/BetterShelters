@@ -1,4 +1,4 @@
 DangerType: FloodAndRain
 Grime: 0
-PlacedObjects: LightFixture><191.9162><441.1816><RedLight~17.32051~-10~99, LightFixture><765.9969><441.45><RedLight~17.32051~-10~92, ShelterSpawnPoint><284.3516><149.9222><, 
+PlacedObjects: LightFixture><191.9162><441.1816><RedLight~-367.6795~-11~99, LightFixture><772.9969><436.45><RedLight~-948.6795~75~92, ShelterBhvrManager><260.5898><270.9287><-454~-141~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><510.1694><153.6436><, ShelterBhvrSpawnPosition><277.194><152.7987><, 
 FadePalette: 8, 0.8586956

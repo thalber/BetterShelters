@@ -1,6 +1,6 @@
 DangerType: FloodAndRain
 EffectColorA: 13
 EffectColorB: 8
-PlacedObjects: ShelterSpawnPoint><856.2216><194.4397><, 
+PlacedObjects: ShelterBhvrManager><-146.829><84.39629><-35~250~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><616.7535><65.45><, ShelterBhvrSpawnPosition><882.3825><195.3998><, ShelterBhvrSpawnPosition><747.6299><42.91002><, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><833.6695><645.6062><0.1521739><0.7065217, SPOT><waterGurgleLOOP1.wav><722.0153><553.1994><0.1521739><1><395.0153><22.1994><179.6447><79.64465><0><0.1760871, OMNI><SO_WAT-DripTap.ogg><757.8718><308.6535><0.173913><0.7652174, 
 FadePalette: 8, 0.2282609

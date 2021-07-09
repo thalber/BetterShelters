@@ -1,5 +1,5 @@
 DangerType: FloodAndRain
 BkgDroneVolume: 0
-PlacedObjects: ShelterSpawnPoint><338.5986><431.7361><, 
+PlacedObjects: ShelterBhvrManager><-50.86621><233.1628><-79~52~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><738.4183><426.892><, ShelterBhvrSpawnPosition><720.1451><166.1703><, ShelterBhvrSpawnPosition><336.2643><426.1995><, ShelterBhvrSpawnPosition><380.6813><163.3346><, ShelterBhvrSpawnPosition><474.1875><427.19><, 
 AmbientSounds: OMNI><Weird Deep Hole.wav><825.5623><643.1901><0.1413043><1, OMNI><SO_WAT-DripTap.ogg><645.7856><643.4468><0.3369565><1, 
 FadePalette: 12, 0.1521739

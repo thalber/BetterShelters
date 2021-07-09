@@ -1,5 +1,5 @@
 Template: HI_SettingsTemplate_Inside
 DangerType: FloodAndRain
-PlacedObjects: ShelterSpawnPoint><371.9487><74.44333><, 
+PlacedObjects: ShelterBhvrManager><480.4201><379.8167><-39~-8~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><31.61548><68.5867><, ShelterBhvrSpawnPosition><680.6816><71.41635><, ShelterBhvrSpawnPosition><375.3952><68.61246><, ShelterBhvrSpawnPosition><208.7082><271.6956><, ShelterBhvrSpawnPosition><546.1591><72.87869><, NoSpearStickZone><619.671><86.89621><-3~93, 
 AmbientSounds: OMNI><AM_IND-Utility02.ogg><737.8163><457.5613><0><1, OMNI><AM_IND-Warehouse01.ogg><734.8168><532.9199><0.173913><0.7456522, OMNI><AM_IND-Utility04.ogg><38.06659><408.5797><0.2173913><0.2369565, OMNI><SO_WAT-LilDrips.ogg><38.04993><489.4437><0.1304348><0.4326087, SPOT><AM_IND-Utility04.ogg><28.46008><279.304><0.25><0.3934783><209.4601><216.304><6.644653><40.64465><0><0.2956522, 
 FadePalette: 20, 0.2934783

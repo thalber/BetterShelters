@@ -1,6 +1,6 @@
 DangerType: FloodAndRain
 Clouds: 0.2173913
 EffectColorA: 13
-PlacedObjects: ShelterSpawnPoint><651.5444><314.7107><, 
+PlacedObjects: ShelterBhvrManager><-147.5762><111.349><-20~182~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><728.0531><323.4428><, ShelterBhvrSpawnPosition><554.8067><70.1987><, ShelterBhvrSpawnPosition><670.5519><308.5569><, 
 AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><456.6083><495.3912><0.1847826><1, DIR><AM_ENV-LightWind.ogg><740.9459><521.4597><0.173913><0.6869565><89.37498><0, 
 FadePalette: 8, 0.2826087

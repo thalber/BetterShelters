@@ -4,6 +4,6 @@ Grime: 0.2608696
 Palette: 8
 EffectColorA: 13
 EffectColorB: 20
-PlacedObjects: LightFixture><519.1285><544.1532><RedLight~-569.6795~17~97, CosmeticSlimeMold2><896.7734><244.6986><-98~67, LightFixture><919.9457><331.4596><SlimeMoldLight~-33.67944~190~51, LightFixture><879.1541><266.8774><SlimeMoldLight~-22.67944~164~82, CosmeticSlimeMold><867.4003><227.1182><-59~92, ShelterSpawnPoint><624.6828><40.31196><, SlimeMold><914.5687><288.4159><-341~201~0~3, SlimeMold><882.9297><239.4373><-220~140~0~3, 
+PlacedObjects: LightFixture><519.1285><544.1532><RedLight~-569.6795~17~97, CosmeticSlimeMold2><896.7734><244.6986><-98~67, LightFixture><919.9457><331.4596><SlimeMoldLight~-837.6794~-311~51, LightFixture><879.1541><266.8774><SlimeMoldLight~-839.6794~-155~82, CosmeticSlimeMold><867.4003><227.1182><-59~92, SlimeMold><914.5687><288.4159><-1102~-148~0~3, SlimeMold><882.9297><239.4373><-1070~-181~0~3, ShelterBhvrManager><186.8135><192.1896><-353~37~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><803.6778><269.1865><, ShelterBhvrSpawnPosition><855.6661><231.8185><, ShelterBhvrSpawnPosition><644.5514><26.97595><, 
 AmbientSounds: SPOT><waterGurgleLOOP1.wav><468.3621><58.89478><0.326087><0.726087><-88.63794><398.8948><371.6447><28.64465><0><0.252174, SPOT><AM_IND-ElectricHum02.ogg><464.8915><173.8914><0.1630435><0.373913><521.8915><576.8914><-0.3553467><-60.35535><0><0.1434784, OMNI><SO_WAT-ProperDrips.ogg><747.6125><217.9153><0.1413043><1.704348, 
 FadePalette: 9, 0.5434783

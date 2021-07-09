@@ -2,6 +2,6 @@ Template: NONE
 DangerType: FloodAndRain
 Grime: 0.3478261
 Palette: 5
-PlacedObjects: BrokenShelterWaterLevel><419.9116><257.8823><, LightFixture><304.8066><113.3013><RedLight~-15.6795~232~43, ShelterSpawnPoint><369.6716><319.3973><, LightFixture><555.3889><478.856><RedLight~-412.6795~21~43, ShelterDoorShift><204.8445><471.5345><2~0~0, 
+PlacedObjects: BrokenShelterWaterLevel><435.9116><320.8823><, LightFixture><304.8066><113.3013><RedLight~-429.6795~28~43, LightFixture><555.3889><478.856><RedLight~-143.6795~101~43, ShelterBhvrManager><-102.5729><251.5638><-34~53~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><186.2048><471.9448><1^0, ShelterBhvrSpawnPosition><309.8578><309.6685><, ShelterBhvrSpawnPosition><442.9062><110.3751><, ShelterBhvrSpawnPosition><335.7568><108.3001><, ShelterBhvrSpawnPosition><535.868><109.3385><, ShelterBhvrSpawnPosition><545.5562><448.4508><, 
 AmbientSounds: DIR><AM_ENV-NatWind.ogg><739.8444><493.1256><0.2173913><0.7652174><-16.95559><0, SPOT><AM_IND-50hz.ogg><712.1049><339.3877><0.2065217><0.4717391><479.1049><367.3877><-13.35535><-21.35535><0><0.2195653, OMNI><AM_IND-Warehouse01.ogg><822.0385><134.5537><0.3478261><0.4130435, 
 FadePalette: 26, 0.4021739
