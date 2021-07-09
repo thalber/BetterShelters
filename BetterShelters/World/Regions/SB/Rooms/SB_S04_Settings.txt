@@ -1,6 +1,6 @@
 Template: SB_SettingsTemplate_Filter
 DangerType: FloodAndRain
 Palette: 20
-PlacedObjects: LightFixture><453.3><87.2442><RedLight~17.32051~-10~79, LightFixture><318.5382><565.3037><RedLight~17.32051~-10~71, ShelterSpawnPoint><239.152><526.6299><, 
+PlacedObjects: LightFixture><453.3><87.2442><RedLight~17.32051~-10~79, LightFixture><318.5382><565.3037><RedLight~17.32051~-10~71, ShelterBhvrManager><23.80579><179.2978><-79~24~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><167.5773><526.1492><, ShelterBhvrSpawnPosition><462.552><373.278><, ShelterBhvrSpawnPosition><439.9109><227.1312><, ShelterBhvrSpawnPosition><472.0757><523.5981><, 
 AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.3393><631.821><0.3478261><1, 
 FadePalette: 10, 1

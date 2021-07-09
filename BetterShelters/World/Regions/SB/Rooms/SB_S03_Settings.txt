@@ -1,6 +1,6 @@
 DangerType: FloodAndRain
 Palette: 17
 EffectColorA: 19
-PlacedObjects: ShelterSpawnPoint><534.9446><71.70399><, LightFixture><526.6569><-43.3739><RedLight~17.32051~-10~8, 
+PlacedObjects: LightFixture><526.6569><-43.3739><RedLight~17.32051~-10~8, ShelterBhvrManager><-9.529236><175.9478><-133~38~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><379.071><313.3393><, ShelterBhvrSpawnPosition><528.1663><69.43161><, 
 AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><822.4802><639.051><0.3695652><1, OMNI><AM_SUB-BlankState.ogg><649.3596><639.1674><0.3152174><1, 
 FadePalette: 21, 0.1956522

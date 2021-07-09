@@ -1,5 +1,5 @@
 Template: UW_SettingsTemplate_Underhang
 DangerType: Thunder
 Effects: ElectricDeath-0.02173913-16-71, 
-PlacedObjects: LightSource><671.5834><306.4318><0.4565217~Environment~0~100~50~86.60254~1~0, 
+PlacedObjects: LightSource><671.5834><306.4318><0.4565217~Environment~0~100~50~86.60254~1~0, ShelterBhvrManager><-71.63599><211.6643><-108~62~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><738.5685><308.334><, ShelterBhvrSpawnPosition><629.5593><308.3104><, 
 FadePalette: 8, 0.1630435

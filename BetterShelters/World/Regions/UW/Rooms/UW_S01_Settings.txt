@@ -1,5 +1,5 @@
 DangerType: Thunder
 EffectColorA: 18
 Effects: ElectricDeath-0.02173913-21-79, 
-PlacedObjects: ShelterSpawnPoint><370.0281><373.0124><, 
+PlacedObjects: ShelterBhvrManager><-11.30811><163.8062><-134~57~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><305.3266><379.3497><, ShelterBhvrSpawnPosition><373.4465><357.0569><, ShelterBhvrSpawnPosition><542.6074><367.4135><, 
 FadePalette: 17, 0.4782609

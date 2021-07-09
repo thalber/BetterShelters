@@ -2,6 +2,6 @@ Template: UW_SettingsTemplate_Underhang
 DangerType: Thunder
 EffectColorA: 18
 Effects: Lightning-0.5543478-18-87, ElectricDeath-0.3043478-271-91, 
-PlacedObjects: ShelterSpawnPoint><502.9116><155.419><, ShelterDoorShift><593.5948><567.3503><1~0~0, 
+PlacedObjects: ShelterBhvrManager><49.17664><229.0639><-51.93976~22.99515~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><588.0995><574.0765><0^-1, ShelterBhvrSpawnPosition><648.8><110.4436><, ShelterBhvrSpawnPosition><441.4441><285.2016><, ShelterBhvrSpawnPosition><493.0455><403.5239><, ShelterBhvrSpawnPosition><779.3538><287.6198><, 
 AmbientSounds: SPOT><SO_SFX-Doomsday.ogg><699.5596><549.0591><0.5><1><605.5596><284.0591><-130.3553><-99.35535><0><0.1, 
 FadePalette: 10, 0.3478261

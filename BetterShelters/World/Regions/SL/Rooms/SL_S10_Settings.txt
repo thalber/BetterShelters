@@ -4,6 +4,6 @@ Clouds: 0.4021739
 Grime: 0
 EffectColorA: 18
 Effects: ZeroG-0.1086956-251-68, 
-PlacedObjects: LightFixture><166.6997><576.5166><RedLight~-206.6795~-173~0, LightFixture><333.1545><310.5929><RedLight~17.32051~-10~57, ShelterSpawnPoint><253.6115><186.1661><, 
+PlacedObjects: LightFixture><166.6997><576.5166><RedLight~-400.6795~-149~0, LightFixture><333.1545><310.5929><RedLight~-550.6795~-43~57, ShelterBhvrManager><569.0267><108.0518><-111~-39~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><171.601><626.5773><, ShelterBhvrSpawnPosition><112.3044><224.7916><, ShelterBhvrSpawnPosition><250.3003><186.7393><, 
 AmbientSounds: OMNI><waterGurgleLOOP2.wav><654.7124><649.6964><0.2282609><1, OMNI><AM_IND-SuperStructure.ogg><478.6987><651.8066><0.2717391><1, 
 FadePalette: 10, 0.6630435

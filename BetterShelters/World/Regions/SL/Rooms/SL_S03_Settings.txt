@@ -2,6 +2,6 @@ Template: NONE
 DangerType: FloodAndRain
 Grime: 0.1956522
 Palette: 34
-PlacedObjects: ShelterSpawnPoint><741.36><329.1671><, 
+PlacedObjects: ShelterBhvrManager><-28.63892><115.8561><-38~59~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><764.8442><323.8746><, ShelterBhvrSpawnPosition><589.8652><405.6478><, ShelterBhvrSpawnPosition><756.0702><527.5875><, 
 AmbientSounds: SPOT><waterGurgleLOOP1.wav><783.5607><547.5594><0.2173913><1><471.5607><226.5594><-131.3553><-64.35535><0><0.1978262, SPOT><SO_IND-MechHum02.ogg><497.4251><540.9034><0.2282609><1><635.4251><305.9034><-147.3553><-99.35535><0><0.2195653, SPOT><SO_WAT-LightFlow.ogg><736.4479><294.2211><0.3695652><1><474.4479><257.2211><-105.3553><175.6447><0><0.1, OMNI><SO_WAT-LilDrips.ogg><649.4422><668.9446><0.2934783><1, 
 FadePalette: 8, 0.3369565

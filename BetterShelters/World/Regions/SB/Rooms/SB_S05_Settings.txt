@@ -2,6 +2,6 @@ DangerType: FloodAndRain
 Clouds: 0.01086957
 BkgDroneVolume: 0
 Effects: LightBurn-0.8152174-20-20, 
-PlacedObjects: ShelterSpawnPoint><690.7><71.75549><, 
+PlacedObjects: ShelterBhvrManager><-13.01141><221.1997><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><544.897><46.07855><, ShelterBhvrSpawnPosition><724.7298><62.94897><, 
 AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><826.532><640.8026><0.2065217><1, OMNI><AM_SUB-BlankState.ogg><644.9576><640.0546><0.3152174><1, OMNI><AM_SUB-CaveTone.ogg><641.0848><552.6373><0.3043478><1, 
 FadePalette: 4, 0.4130435

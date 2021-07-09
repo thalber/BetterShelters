@@ -4,6 +4,6 @@ Clouds: 0.01086957
 Grime: 0.2282609
 Palette: 13
 EffectColorB: 6
-PlacedObjects: ShelterSpawnPoint><146.5585><235.6926><, 
+PlacedObjects: ShelterBhvrManager><-101.9542><191.6947><-94~79~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><146.9592><230.9458><, ShelterBhvrSpawnPosition><323.644><350.5804><, 
 AmbientSounds: OMNI><AM_IND-Utility02.ogg><538.6837><491.3113><0.3586957><1, SPOT><Basic Mech.wav><693.6972><429.9667><0.173913><1><237.6972><479.9667><-240.3553><-145.3553><0><0.1, 
 FadePalette: 9, 0.6956522

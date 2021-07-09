@@ -4,6 +4,6 @@ RumbleIntensity: 0.01086957
 Grime: 0
 Palette: 28
 EffectColorA: 8
-PlacedObjects: ShelterSpawnPoint><584.8656><90.64427><, 
+PlacedObjects: ShelterBhvrManager><-38.82465><160.3145><-76~-20~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><579.4825><85.94925><, ShelterBhvrSpawnPosition><835.4333><85.32974><, ShelterBhvrSpawnPosition><845.5525><502.9689><, 
 AmbientSounds: OMNI><AM_ENV-WallHum.ogg><720.884><579.913><0.2934783><1, SPOT><AM_IND-Welder.ogg><715.4297><370.0878><0.5><1><621.4297><326.0878><-55.35535><-52.35535><0><0.1, 
 FadePalette: 10, 0.1956522

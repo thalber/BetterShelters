@@ -1,4 +1,4 @@
 DangerType: Thunder
 Effects: ElectricDeath-0.02173913-20-80, 
-PlacedObjects: LightFixture><741.3875><311.8945><RedLight~17.32051~-10~20, ShelterSpawnPoint><494.7153><281.5674><, 
+PlacedObjects: LightFixture><741.3875><311.8945><RedLight~-348.6795~-268~20, ShelterBhvrManager><57.65219><301.5756><-126.0099~24.05063~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><665.5608><299.5846><, ShelterBhvrSpawnPosition><567.1771><246.3575><, 
 FadePalette: 17, 0.5108696

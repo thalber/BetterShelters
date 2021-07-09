@@ -4,6 +4,6 @@ CeilingDrips: 0.6847826
 Clouds: 0.9673913
 Grime: 0.1978262
 Palette: 34
-PlacedObjects: BrokenShelterWaterLevel><448.7582><228.8002><, 
+PlacedObjects: BrokenShelterWaterLevel><450.7582><248.8002><, ShelterBhvrManager><-62.67175><186.8525><-93~44~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><570.3718><224.8464><, ShelterBhvrSpawnPosition><453.6986><223.9766><, ShelterBhvrSpawnPosition><331.4131><222.1801><, 
 AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><766.1756><249.4356><0.3478261><0.4521739><536.1756><546.4357><-207.3553><-186.3553><0><0.2630436, 
 FadePalette: 8, 0.2065217

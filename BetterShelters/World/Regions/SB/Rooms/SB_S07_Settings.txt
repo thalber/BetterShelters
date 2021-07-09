@@ -5,6 +5,6 @@ Clouds: 1
 Grime: 0.2282609
 Palette: 21
 Effects: LightBurn-0.5-34-118, 
-PlacedObjects: ShelterSpawnPoint><464.6205><185.0977><, 
+PlacedObjects: ShelterBhvrManager><110.5503><174.7614><-174~4~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><596.9451><104.794><, ShelterBhvrSpawnPosition><461.5906><180.6292><, 
 AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><509.8336><611.1817><0.2717391><1, OMNI><AM_SUB-BlankState.ogg><694.1382><611.1658><0.2934783><1, OMNI><AM_SUB-CaveTone.ogg><699.6198><532.5981><0.2826087><1, 
 FadePalette: 10, 0.173913
