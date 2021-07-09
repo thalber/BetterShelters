@@ -1,4 +1,4 @@
 DangerType: FloodAndRain
-PlacedObjects: ShelterSpawnPoint><671.5501><254.4793><, 
+PlacedObjects: ShelterBhvrManager><464.3051><325.9423><-621~-113~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><669.8679><247.3384><, ShelterBhvrSpawnPosition><295.917><249.61><, ShelterBhvrSpawnPosition><285.7515><127.3><, ShelterBhvrSpawnPosition><669.3002><370.4922><, 
 AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><852.084><34.8185><0.2282609><0.2173913, OMNI><Basic Mech.ogg><850.8857><111.9141><0.1304348><0.3152174, SPOT><SO_IND-MechHum01.ogg><761.5671><160.8308><0.2934783><0.7456522><438.5671><-37.16919><-75.35535><143.6447><0><0.154348, 
 FadePalette: 8, 0.2065217

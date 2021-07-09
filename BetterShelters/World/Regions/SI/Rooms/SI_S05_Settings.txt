@@ -4,6 +4,6 @@ Clouds: 0.01086957
 Palette: 3
 EffectColorA: 8
 Effects: SkyAndLightBloom-0.02173913-220-66, 
-PlacedObjects: ShelterSpawnPoint><402.0467><168.5555><, 
+PlacedObjects: ShelterBhvrManager><221.2629><242.9496><-398~-70~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><135.5723><221.8418><, ShelterBhvrSpawnPosition><310.6282><165.9087><, ShelterBhvrSpawnPosition><476.7371><165.9496><, 
 AmbientSounds: SPOT><AM_IND-DeepHum.ogg><715.4461><308.4607><0.5><1><314.4461><418.4607><-185.3553><-106.3553><0><0.1, SPOT><AM_IND-Utility02.ogg><725.1617><465.3678><0.5><1><382.1617><201.3678><-71.35535><-54.35535><0><0.1, 
 FadePalette: 8, 0.3369565

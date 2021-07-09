@@ -1,1 +1,1 @@
-PlacedObjects: ShelterDoorShift><196.3027><186.4674><2~0~0, ShelterSpawnPoint><596.8573><326.6099><, 
+PlacedObjects: ShelterBhvrManager><-24.11993><306.34><-59~-15~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><785.3362><147.8195><, ShelterBhvrSpawnPosition><593.4088><325.1216><, ShelterBhvrSpawnPosition><288.3582><323.1682><, ShelterBhvrPlacedDoor><185.0587><186.8083><1^0, 

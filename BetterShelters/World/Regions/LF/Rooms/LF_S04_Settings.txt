@@ -7,6 +7,6 @@ SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Grime: 0.3586957
 WaterReflectionAlpha: 1
-PlacedObjects: WaterNut><664.1968><307.9647><-153~-245~0~3, WaterNut><688.9623><312.8036><-471~-249~0~3, WaterNut><472.1462><308.1364><-512~8~0~3, WaterNut><495.7225><305.1981><-484~-70~0~3, ShelterSpawnPoint><455.5078><373.2661><, 
+PlacedObjects: WaterNut><664.1968><307.9647><-153~-245~0~3, WaterNut><688.9623><312.8036><-471~-249~0~3, WaterNut><472.1462><308.1364><-512~8~0~3, WaterNut><495.7225><305.1981><-484~-70~0~3, ShelterBhvrManager><353.0541><439.2099><-438~-90~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><692.1837><373.4208><, ShelterBhvrSpawnPosition><475.833><371.39><, 
 AmbientSounds: OMNI><waterGurgleLOOP2.wav><786.3609><41.58356><0.173913><1.03913, SPOT><SO_WAT-LilDrips.ogg><737.5693><278.5858><0.5><1><582.5693><673.5858><12.64465><-120.3553><0><0.2956523, 
 FadePalette: 13, 0.1413043
