@@ -1,5 +1,5 @@
 DangerType: FloodAndRain
 Grime: 0.3043478
-PlacedObjects: ShelterBhvrSpawnPosition><203.7207><132.9479><, ShelterBhvrSpawnPosition><297.0735><132.156><, ShelterBhvrManager><840.9476><103.2189><-425~-101~False~False~4~False~3~6~20~40~60~120~120~120~False, 
+PlacedObjects: ShelterBhvrSpawnPosition><184.7207><202.9479><, ShelterBhvrSpawnPosition><293.0735><207.156><, ShelterBhvrManager><840.9476><103.2189><-445~-106~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><219.1041><322.3292><, 
 AmbientSounds: OMNI><AM_IND-Utility02.ogg><838.6574><126.5727><0.3586957><1, OMNI><SO_WAT-ProperDrips.ogg><840.31><42.06245><0.2391304><1.313043, 
 FadePalette: 4, 0.2282609
