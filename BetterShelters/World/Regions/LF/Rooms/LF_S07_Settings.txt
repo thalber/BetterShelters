@@ -2,6 +2,6 @@ DangerType: FloodAndRain
 Clouds: 0.2934783
 Grime: 0.1956522
 EffectColorA: 5
-PlacedObjects: BrokenShelterWaterLevel><633.3669><200.9122><, ShelterBhvrManager><488.1379><378.6448><-670~-55~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><804.8328><245.3599><, ShelterBhvrSpawnPosition><682.1791><265.3389><, ShelterBhvrSpawnPosition><684.6177><66.0883><, ShelterBhvrSpawnPosition><805.0479><66.05583><, 
+PlacedObjects: BrokenShelterWaterLevel><633.3669><200.9122><, ShelterBhvrManager><488.1379><378.6448><-670~-55~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><803.8328><248.3599><, ShelterBhvrSpawnPosition><682.1791><266.3389><, ShelterBhvrSpawnPosition><684.6177><66.0883><, ShelterBhvrSpawnPosition><805.0479><66.05583><, 
 AmbientSounds: SPOT><AM_ENV-LightWind.ogg><752.6487><519.8275><0.2717391><1><317.6487><666.8275><161.6447><-223.3553><0><0.154348, SPOT><AM_ENV-LightWind.ogg><549.8249><264.3146><0.2282609><1><-96.17511><273.3146><226.6447><109.6447><0><0.1, SPOT><AM_IND-Utility03.ogg><748.5507><348.0164><0.3478261><1><64.55066><387.0165><184.6447><-28.35535><0><0.1, OMNI><SO_WAT-LilDrips.ogg><866.4043><16.87274><0.2173913><0.726087, 
 FadePalette: 8, 0.1956522
