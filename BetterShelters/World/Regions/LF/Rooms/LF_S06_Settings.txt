@@ -1,6 +1,6 @@
 DangerType: FloodAndRain
-Clouds: 0.7065217
+Clouds: 0.4782609
 Grime: 0.3586957
-PlacedObjects: ShelterBhvrManager><377.2623><608.8004><-560~-280~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><110.6954><207.1924><, ShelterBhvrSpawnPosition><335.0521><145.2792><, ShelterBhvrSpawnPosition><426.8006><172.0154><, 
+PlacedObjects: ShelterBhvrManager><377.2623><608.8004><-560~-280~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><243.6954><181.1924><, ShelterBhvrSpawnPosition><281.0521><88.27921><, ShelterBhvrSpawnPosition><404.8006><71.0154><, ShelterBhvrSpawnPosition><362.5523><325.0303><, ShelterBhvrSpawnPosition><106.0813><322.9327><, 
 AmbientSounds: SPOT><AM_ENV-LightWind.ogg><735.3886><520.9161><0.3586957><1><153.3885><655.9161><-4.355347><-78.35535><0><0.1978262, OMNI><AM_IND-DeepHum.ogg><851.9875><25.69962><0.2065217><0.4326087, OMNI><AM_SUB-CaveTone.ogg><853.8151><103.8109><0.1956522><0.9217392, SPOT><AM_IND-50hz.ogg><737.0118><337.9496><0.173913><0.6282609><816.0119><158.9497><-251.3553><80.64465><0><0.1652175, 
 FadePalette: 8, 0.4130435
