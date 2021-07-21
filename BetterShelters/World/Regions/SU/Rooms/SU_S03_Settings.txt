@@ -1,6 +1,6 @@
 Template: SU_SettingsTemplate_Inside
 DangerType: FloodAndRain
 Grime: 0.09782609
-PlacedObjects: DataPearl><831.3074><304.0543><-64~-310~0~0~0~0, PuffBall><877.1309><307.0893><-561~-320~0~3, FlareBomb><795.6091><346.8582><-30~-241~0~3, ExitSymbolHidden><386.6122><171.645><, ShelterBhvrManager><67.63684><273.1459><-176~39~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><369.3107><171.3146><1^0, ShelterBhvrSpawnPosition><552.5933><488.8757><, ShelterBhvrSpawnPosition><748.6313><423.8492><, ShelterBhvrSpawnPosition><622.6794><229.1616><, ShelterBhvrPlacedDoor><372.4733><351.3574><1^0, 
+PlacedObjects: ExitSymbolHidden><386.6122><171.645><, ShelterBhvrManager><67.63684><273.1459><-176~39~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><369.3107><171.3146><1^0, ShelterBhvrSpawnPosition><552.5933><488.8757><, ShelterBhvrSpawnPosition><748.6313><423.8492><, ShelterBhvrSpawnPosition><622.6794><229.1616><, ShelterBhvrPlacedDoor><372.4733><351.3574><1^0, 
 AmbientSounds: OMNI><Basic Mech.ogg><757.4195><162.8938><0.1521739><0.8630434, SPOT><Mech Basic.wav><764.8282><551.3976><0.4347826><0.7456522><295.8282><234.3976><-39.35535><-29.35535><0><0.4586958, 
 FadePalette: 4, 0.7717391

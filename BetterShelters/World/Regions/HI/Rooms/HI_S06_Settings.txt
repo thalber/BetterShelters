@@ -5,6 +5,6 @@ Grime: 0.3043478
 Palette: 35
 EffectColorA: 19
 EffectColorB: 15
-PlacedObjects: CosmeticSlimeMold><810.3621><90.10521><-70~-14, SlimeMold><842.6866><90.32201><-241~-108~25~50, SlimeMold><891.5877><103.0702><-45~-125~25~50, CosmeticSlimeMold2><880.3511><90.57741><1~63, LightFixture><892.6999><88.50818><SlimeMoldLight~-25.67944~10.00012~44, ShelterBhvrManager><30.61688><283.9123><-119~42~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><864.8263><85.34912><, ShelterBhvrSpawnPosition><697.1429><87.11011><, ShelterBhvrSpawnPosition><568.1947><90.20416><, 
+PlacedObjects: CosmeticSlimeMold><810.3621><90.10521><-70~-14, CosmeticSlimeMold2><880.3511><90.57741><1~63, LightFixture><892.6999><88.50818><SlimeMoldLight~-330.6794~106.0001~44, ShelterBhvrManager><30.61688><283.9123><-119~42~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><864.8263><85.34912><, ShelterBhvrSpawnPosition><697.1429><87.11011><, ShelterBhvrSpawnPosition><568.1947><90.20416><, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><831.9324><644.0821><0.2173913><0.7847826, SPOT><AM_IND-50hz.ogg><741.5838><339.0684><0.3478261><0.1978261><754.5837><-52.93166><-74.35535><90.64466><0><0.2195653, 
 FadePalette: 31, 0.2934783

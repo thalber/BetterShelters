@@ -1,12 +1,12 @@
 {
-  "regionPackName": "Better Shelters",
-  "description": "Replaces all of the shelter rooms in the original game to make the shelters more unique and interesting in their designs.",
-  "author": "TRONSX&THALBER",
-  "activated": true,
-  "loadOrder": 201,
-  "regions": "",
-  "thumbURL": "http://www.raindb.net/previews/bettershelters.png",
-  "version": "1.2",
-  "requirements": "",
-  "checksum": "d3621cb8cad85a495f16d3f1a1d2ba46"
+   "regionPackName": "Better Shelters", 
+   "description": "Replaces all of the shelter rooms in the original game to make the shelters more unique and interesting in their designs.", 
+   "author": "TRONSX&THALBER", 
+   "activated": true, 
+   "loadOrder": 201, 
+   "regions": "", 
+   "thumbURL": "http://www.raindb.net/previews/bettershelters.png", 
+   "version": "1.3", 
+   "requirements": "", 
+   "checksum": "d3621cb8cad85a495f16d3f1a1d2ba46" 
 }
