@@ -6,6 +6,6 @@ Grime: 0.1956522
 BkgDroneVolume: 0
 Palette: 5
 Effects: SkyAndLightBloom-0.4130435-238-69, 
-PlacedObjects: LightFixture><558.0612><397.4341><HolyFire~227.3205~-352~83, ShelterBhvrManager><-128.1002><116.6325><-29~189~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><304.1926><96.94159><372~175, ShelterBhvrSpawnPosition><409.9344><301.6726><, ShelterBhvrSpawnPosition><333.2307><307.8009><, ShelterBhvrSpawnPosition><490.7873><329.9465><, 
+PlacedObjects: LightFixture><558.0612><397.4341><HolyFire~227.3205~-352~83, ShelterBhvrManager><-128.1002><116.6325><-29~189~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><304.1926><96.94159><372~175, ShelterBhvrSpawnPosition><409.9344><301.6726><, ShelterBhvrSpawnPosition><333.2307><307.8009><, ShelterBhvrSpawnPosition><490.7873><329.9465><, ShelterBhvrPlacedDoor><469.2271><574.5513><0^-1, 
 AmbientSounds: SPOT><Basic Mech.ogg><720.6788><158.4104><0.1956522><0.9413043><462.6788><681.4104><-5.355347><-97.35535><0><0.4478262, OMNI><SO_WAT-ProperDrips.ogg><722.8664><52.14885><0.25><1.567391, SPOT><SO_NAT-Fire.ogg><307.248><437.7><0.326087><1.645652><561.248><399.7><-20.35535><-28.35535><0><0.1760871, 
 FadePalette: 8, 0.2391304
