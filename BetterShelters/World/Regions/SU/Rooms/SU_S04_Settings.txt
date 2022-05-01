@@ -2,6 +2,6 @@ DangerType: FloodAndRain
 Clouds: 0.8369565
 Grime: 0.3478261
 EffectColorA: 15
-PlacedObjects: LightSource><472.4442><467.2025><0.2065217~EffectColor1~-161~56~50~86.60254~1~0, Mushroom><816.8384><654.118><-253~-611~40~50, Mushroom><792.9778><653.1988><43~-571~40~50, ShelterBhvrManager><-21.40125><341.6309><-114~-289~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><149.9498><452.5078><1^0, ShelterBhvrPlacedDoor><468.9498><242.5091><0^1, 
+PlacedObjects: LightSource><472.4442><467.2025><0.2065217~EffectColor1~-161~56~50~86.60254~1~0, ShelterBhvrManager><-21.40125><341.6309><-114~-289~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><149.9498><452.5078><1^0, ShelterBhvrPlacedDoor><468.9498><242.5091><0^1, 
 AmbientSounds: OMNI><AM_ENV-Outside.ogg><596.0987><152.6192><0.2717391><1, 
 FadePalette: 8, 0.5326087
